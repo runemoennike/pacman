@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1180373656 source:c:\rune\proj\pacman\animation.cpp
+	"common.h"
+
+1184523246 c:\rune\proj\pacman\common.h
+	<iostream>
+	<allegro.h>
+	<alfont.h>
+	<fstream>
+	<string>
+	<sstream>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<FMOD/fmod.h>
+	<FMOD/fmod_errors.h>
+	"highscore.h"
+	"main.h"
+	"level.h"
+	"sfx.h"
+	"player.h"
+	"enemy.h"
+	"particles.h"
+	"animation.h"
+	"gfx.h"
+	"input.h"
+
+1180196244 c:\rune\proj\pacman\highscore.h
+
+1184436834 c:\rune\proj\pacman\main.h
+
+1182696115 c:\rune\proj\pacman\level.h
+
+1180375980 c:\rune\proj\pacman\sfx.h
+
+1184499779 c:\rune\proj\pacman\player.h
+
+1184522412 c:\rune\proj\pacman\enemy.h
+
+1180295470 c:\rune\proj\pacman\particles.h
+
+1180373228 c:\rune\proj\pacman\animation.h
+
+1184499967 c:\rune\proj\pacman\gfx.h
+
+1180349334 c:\rune\proj\pacman\input.h
+
+1184436667 source:c:\rune\proj\pacman\common.cpp
+	"common.h"
+
+1184523216 source:c:\rune\proj\pacman\enemy.cpp
+	"common.h"
+
+1184502119 source:c:\rune\proj\pacman\gfx.cpp
+	"common.h"
+
+1184441156 source:c:\rune\proj\pacman\highscore.cpp
+	"common.h"
+
+1184439037 source:c:\rune\proj\pacman\input.cpp
+	"common.h"
+
+1182696102 source:c:\rune\proj\pacman\level.cpp
+	"common.h"
+
+1184501845 source:c:\rune\proj\pacman\main.cpp
+	"common.h"
+
+1180856403 source:c:\rune\proj\pacman\particles.cpp
+	"common.h"
+
+1184500233 source:c:\rune\proj\pacman\player.cpp
+	"common.h"
+
+1180376504 source:c:\rune\proj\pacman\sfx.cpp
+	"common.h"
+
+1184441656 source:c:\rune\proj\pacman\pacman.rc
+	<windows.h>
+

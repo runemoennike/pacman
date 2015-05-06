@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Pacman.rc" open="1" top="0" tabpos="8">
+		<Cursor position="200" topLine="1" />
+	</File>
+	<File name="Pacman_private.h" open="0" top="0" tabpos="1">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="animation.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="animation.h" open="1" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="common.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="285" topLine="0" />
+	</File>
+	<File name="common.h" open="1" top="0" tabpos="10">
+		<Cursor position="721" topLine="25" />
+	</File>
+	<File name="enemy.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="4922" topLine="161" />
+	</File>
+	<File name="enemy.h" open="0" top="0" tabpos="5">
+		<Cursor position="875" topLine="38" />
+	</File>
+	<File name="gfx.cpp" open="1" top="1" tabpos="11">
+		<Cursor position="2868" topLine="181" />
+	</File>
+	<File name="gfx.h" open="0" top="0" tabpos="1">
+		<Cursor position="1058" topLine="33" />
+	</File>
+	<File name="highscore.cpp" open="0" top="0" tabpos="11">
+		<Cursor position="4892" topLine="180" />
+	</File>
+	<File name="input.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="582" topLine="6" />
+	</File>
+	<File name="level.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="164" topLine="0" />
+	</File>
+	<File name="level.h" open="0" top="0" tabpos="14">
+		<Cursor position="452" topLine="18" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="3971" topLine="240" />
+	</File>
+	<File name="main.h" open="0" top="0" tabpos="8">
+		<Cursor position="203" topLine="0" />
+	</File>
+	<File name="particles.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="1113" topLine="0" />
+	</File>
+	<File name="player.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2114" topLine="60" />
+	</File>
+	<File name="player.h" open="0" top="0" tabpos="7">
+		<Cursor position="195" topLine="18" />
+	</File>
+	<File name="sfx.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="824" topLine="12" />
+	</File>
+	<File name="sfx.h" open="1" top="0" tabpos="1">
+		<Cursor position="521" topLine="12" />
+	</File>
+</CodeBlocks_layout_file>

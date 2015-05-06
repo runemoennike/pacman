@@ -1,0 +1,30 @@
+#include <windows.h>
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "Pacman.ico"
+
+1 VERSIONINFO
+FILEVERSION 1,0,1,1483
+PRODUCTVERSION 1,0,1,1483
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+	 {
+		 BLOCK "080904E4"
+		 {
+			 VALUE "CompanyName", ""
+			 VALUE "FileVersion", ""
+			 VALUE "FileDescription", "A Pacman Clone"
+			 VALUE "InternalName", ""
+			 VALUE "LegalCopyright", "Rune A. Juel Mønnike, 2007"
+			 VALUE "LegalTrademarks", ""
+			 VALUE "OriginalFilename", "Pacman.exe"
+			 VALUE "ProductName", "Pacman"
+			 VALUE "ProductVersion", ""
+		 }
+	 }
+  BLOCK "VarFileInfo"
+	 {
+		 VALUE "Translation", 0x0809, 1252
+	 }
+}
+
